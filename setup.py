@@ -5,7 +5,7 @@ setup(
     version='0.0.1',
     description='Gate pass project',
     author='Ashuar',
-    author_email='ashuar@exconsol.com',
+    author_email='mashuarfarooq@gmail.com',
     packages=find_packages(),
     zip_safe=False,
     include_package_data=True,
